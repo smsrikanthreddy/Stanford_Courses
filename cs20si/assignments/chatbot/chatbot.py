@@ -200,7 +200,7 @@ def chat():
     model = ChatBotModel(True, batch_size=1)
     model.build_graph()
 
-    # saver = tf.train.import_meta_graph('checkpoints/chatbot-30.meta')
+    #saver = tf.train.import_meta_graph('checkpoints/chatbot-30.meta')
 
     saver = tf.train.Saver()
 

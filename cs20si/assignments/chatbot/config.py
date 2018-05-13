@@ -24,7 +24,6 @@ PROCESSED_PATH = 'processed'
 CPT_PATH = 'checkpoints'
 
 THRESHOLD = 1
-
 PAD_ID = 0
 UNK_ID = 1
 START_ID = 2
